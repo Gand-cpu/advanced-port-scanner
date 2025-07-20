@@ -15,7 +15,7 @@ Scans any IP or hostname in a specified port range.
 python Advanced_port_scanner.py <target> -p <start-end>
 
 ```
-##Note
+#Note
 
 - "target" : can be either an IP or a Domain name 
 - "start-end" : is the port range for example -p 1-1000
