@@ -9,14 +9,21 @@ Scans any IP or hostname in a specified port range.
 - Clean terminal output
 - CLI interface with argument parsing
 
-#Usage
+# Usage
 
 ```bash
 python Advanced_port_scanner.py <target> -p <start-end>
 
 ```
-#Note
+# Note
 
 - "target" : can be either an IP or a Domain name 
 - "start-end" : is the port range for example -p 1-1000
-- Enjoy
+
+# Author
+
+Made by [E1337]. Contributions and feedback are welcome!
+
+# Disclaimer
+
+This tool is intended **for educational purposes only** and to be used **exclusively on systems you own or have explicit permission to test
