@@ -1,5 +1,3 @@
-# advanced_port_scanner.py
-
 import socket
 import threading
 import argparse
